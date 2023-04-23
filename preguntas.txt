@@ -1,0 +1,6 @@
+1.Link en el logo // RESUELTO
+2.Como sacar el subrayado de los links //RESUELTO
+3.Ajustar el iframe de google maps
+4.Text area - Expandir//RESUELTO
+5.Acomodar el header// RESUELTO
+6.Grid en una seccion
